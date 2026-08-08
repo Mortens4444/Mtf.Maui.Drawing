@@ -27,7 +27,7 @@
 
   <PropertyGroup>
     <PackageId>Mtf.Maui.Drawing</PackageId>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Authors>Mortens</Authors>
     <Description>
       
@@ -55,8 +55,8 @@
   </ItemGroup>
   
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Maui.Controls" Version="10.0.70" />
-		<PackageReference Include="Mtf.Drawing" Version="1.0.10" />
+		<PackageReference Include="Microsoft.Maui.Controls" Version="10.0.90" />
+		<PackageReference Include="Mtf.Drawing" Version="1.0.11" />
 	</ItemGroup>
 
 </Project>
